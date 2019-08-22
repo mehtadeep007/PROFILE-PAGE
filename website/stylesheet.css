@@ -1,0 +1,84 @@
+
+
+
+#demo{
+	font-size:25px;
+	color:red;
+}
+
+#span{
+font-size:35px;
+}
+
+#img{
+
+	border-color: black;
+	border-width:3px;
+	border-radius:10px;
+	border-style:solid;
+	padding:5px;
+	box-shadow:7px 7px 10px black;
+	margin-top:75px;
+	
+	
+}
+
+p{
+	font-size:31px;
+	font-family:Lucida Fax;
+}
+
+#rows{
+	background-color:pink;
+	margin:5px;
+}
+
+.row{
+
+display:table-row;
+}
+
+.row label{
+	display: table-cell;
+	padding:2px;
+}
+.row input{
+	display: table-cell;
+	padding:2px;
+}
+
+
+.test1{
+	font-size:35px;
+}
+
+h2{
+	font-size:50px;
+	font-family:arial black;
+	text-align:center;
+	color:black;
+	
+	
+	
+}
+
+caption{
+	color:red;
+}
+
+table{
+	font-size:50px;
+}
+
+#academics{
+	background-color:beige;
+	
+}
+
+#Form{
+	color:black;
+	display:table;
+	padding:20px;
+	border: solid 4px black;
+	background-color:blue;
+}
