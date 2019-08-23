@@ -1,0 +1,131 @@
+#body{
+	background-image: url("home.jpeg");
+}
+
+
+
+#on{
+	color:white;
+}
+	
+
+#demo{
+	font-size:25px;
+	color:red;
+}
+
+#span{
+font-size:35px;
+}
+
+#img{
+
+	border-color: black;
+	border-width:3px;
+	border-radius:10px;
+	border-style:solid;
+	padding:5px;
+	box-shadow:7px 7px 10px black;
+	margin-top:75px;
+	
+	
+}
+
+#img1{
+	border-color: black;
+	border-width:3px;
+	border-radius:10px;
+	border-style:solid;
+	padding:5px;
+	box-shadow:7px 7px 10px black;
+	margin-top:75px;
+	
+	
+}
+
+p{
+	font-size:32.25px;
+	font-family:Lucida Fax;
+	
+}
+
+#rows{
+	
+	margin:5px;
+}
+
+.row{
+
+display:table-row;
+}
+
+.row label{
+	display: table-cell;
+	padding:2px;
+}
+.row input{
+	display: table-cell;
+	padding:2px;
+}
+
+
+.test1{
+	font-size:35px;
+}
+
+h2{
+	font-size:50px;
+	font-family:arial black;
+	text-align:center;
+	color:black;
+	
+	
+	
+}
+
+caption{
+	color:red;
+}
+
+table{
+	font-size:50px;
+	color:white;
+	border-color:beige;
+}
+
+#academics{
+	background-color:silver;
+	
+}
+
+#Form{
+	color:black;
+	display:table;
+	padding:20px;
+	border: solid 4px black;
+	background-color:blue;
+}
+
+#home{
+	background: linear-gradient(#000428,#004e92);
+}
+
+#para1{
+	color:white;
+}
+
+#hl{
+	color:red;
+}
+#aca{
+	background: linear-gradient(#000428,#004e92);
+}
+
+#contact{
+	background: linear-gradient(#ee9ca7,#ffdde1);
+}
+
+#ski{
+	background: linear-gradient(#000428,#004e92);
+}
+	
